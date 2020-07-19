@@ -1,5 +1,4 @@
-# Uuidable [![Build Status](https://travis-ci.org/flant/uuidable.svg?branch=master)](https://travis-ci.org/flant/uuidable)
-
+# Uuidable [![Build Status](https://travis-ci.org/flant/uuidable.svg?branch=master)](https://travis-ci.org/flant/uuidable) 
 With this gem you can use UUID instead of id in routes. But id is still primary key.
 
 ## Installation
